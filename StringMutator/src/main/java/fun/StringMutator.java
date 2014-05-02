@@ -1,6 +1,10 @@
-import java.lang.reflect.Array;
+package fun;
+
 import java.lang.reflect.Field;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Random;
 
 /**
  * Created by shaun.netherby on 3/27/2014.
